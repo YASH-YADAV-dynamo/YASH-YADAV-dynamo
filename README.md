@@ -4,8 +4,6 @@ I'm yash yadav from India, and i really like development.I am focussing on MERN 
 
 Skills:  JS / HTML / CSS/ TAILWIND/ NODE.JS
 
-- 🔭 I’m currently working on this page. 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/YASH-YADAV-dynamo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@yashastro23)  
 
@@ -16,4 +14,6 @@ Skills:  JS / HTML / CSS/ TAILWIND/ NODE.JS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YASH-YADAV-dynamo&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=YASH-YADAV-dynamo)  
+
+
 
