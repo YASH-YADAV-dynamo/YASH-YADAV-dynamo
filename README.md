@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm YASH YADAV</h1>
 <h3 align="center">A passionate full-stack web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-yadav-dynamo&label=Profile%20views&color=0e75b6&style=flat" alt="yash-yadav-dynamo" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash-yadav-dynamo" alt="yash-yadav-dynamo" /></a> </p>
-
-- 🌱 I’m currently learning **Rust, Next.js**
+- 🌱 I’m currently learning **Rust, Full-stacl web development**
 
 - 💬 Ask me about **trends, technologies, development, music, anime**
 
