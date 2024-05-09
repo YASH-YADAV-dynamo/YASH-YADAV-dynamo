@@ -19,7 +19,7 @@
 </p>
 
 ### 💻 Stack I Use:<br>
-[![My Skills](https://skillicons.dev/icons?i=express,ts,rust,js,cpp,react,nodejs,nextjs,html,vite,css,tailwind,javascript,mongodb,redux,git,tailwind,nextjs,postman,figma,firebase,materialui,py,opencv,c,)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=express,ts,rust,js,cpp,react,nodejs,nextjs,vite,docker,css,javascript,mongodb,redux,git,tailwind,postman,figma,firebase,materialui,html,py,opencv,c,)](https://skillicons.dev) 
 <br>
 
 
