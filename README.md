@@ -21,11 +21,34 @@
 ### 💻 Stack I Use:<br>
 [![My Skills](https://skillicons.dev/icons?i=express,ts,rust,js,cpp,react,nodejs,nextjs,vite,docker,css,javascript,mongodb,redux,git,tailwind,postman,figma,firebase,materialui,html,py,opencv,c,)](https://skillicons.dev) 
 <br>
-
-
+<br>
+## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Yash Yadav'
+		current_work = 'Writing code'
+		hobbies = [
+				'Fantasizing my written code...'
+				'Watching Anime',
+			]
+	
+	def getCity():
+		return Delhi()
+	
+	def Ambitions():
+		CreateCoolProjects()
+		# in progress.....  ;)
+	
+ ```
+<br>
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-yadav-dynamo&show_icons=true&locale=en&layout=compact" alt="yash-yadav-dynamo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-yadav-dynamo&show_icons=true&locale=en" alt="yash-yadav-dynamo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-yadav-dynamo&" alt="yash-yadav-dynamo" /></p>
+<br>
+
+## Other Stuff
+- :octocat: [My Resume](https://drive.google.com/drive/home)
 
