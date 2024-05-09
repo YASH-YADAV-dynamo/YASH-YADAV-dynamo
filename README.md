@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dynamo</h1>
+## नमस्ते (Namaste), I am [YASH YADAV](https://github.com/YASH-YADAV-dynamo)
 <h3 align="center">A passionate full-stack web developer from India</h3>
 
 - 🌱 I’m currently learning **Rust, Full-stack web development**
