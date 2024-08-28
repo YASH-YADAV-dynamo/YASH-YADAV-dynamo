@@ -50,5 +50,5 @@
 <br>
 
 ## Other Stuff
-- :octocat: [My Resume](https://drive.google.com/file/d/13j6YCo0-ATPxaIfDzx68-pDPvmpIdEWU/view?usp=sharing)
+- :octocat: [My Resume](https://drive.google.com/file/d/1UPj7CPNn1cJjo7ok2tc8uvATin1cGlWX/view?usp=sharing)
 
