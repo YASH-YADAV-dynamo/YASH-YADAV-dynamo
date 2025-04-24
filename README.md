@@ -19,7 +19,7 @@
 </p>
 
 ### 💻 Stack I Use:<br>
-[![My Skills](https://skillicons.dev/icons?i=express,ts,rust,js,cpp,react,nodejs,nextjs,vite,docker,css,javascript,mongodb,redux,git,tailwind,postman,figma,firebase,materialui,html,py,opencv,c,)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=express,ts,rust,js,cpp,react,nodejs,nextjs,vite,nginx,docker,css,javascript,regex,mongodb,mysql,postgres,prisma,redux,git,tailwind,postman,figma,firebase,materialui,html,py,opencv,matlab,sklearn,c,graphql,ipfs,jest,)](https://skillicons.dev) 
 <br>
 <br>
 ## Who am I?
@@ -49,6 +49,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-yadav-dynamo&" alt="yash-yadav-dynamo" /></p>
 <br>
 
-## Other Stuff
-- :octocat: [My Resume](https://drive.google.com/file/d/1UPj7CPNn1cJjo7ok2tc8uvATin1cGlWX/view?usp=sharing)
 
